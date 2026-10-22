@@ -1,4 +1,1 @@
-requests
-pytest
-pytest-cov
-ruff
+pytest>=8.0
